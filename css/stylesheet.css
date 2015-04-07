@@ -1,0 +1,232 @@
+body{
+  margin: 0px;
+  background: #000;
+}
+
+
+#UserAccount:after{
+	/*Isi Content dengan image User*/
+
+	content: url(../img/orang.png);
+	background-size: 10px;
+	margin: 5px;
+	border-radius: 50%;
+}
+#UserAccount{
+	text-align: left;
+	height: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	display: none;
+}
+
+.Ukurans ul li{
+	list-style: none;
+	display: inline-block;
+	margin: 0px;
+	color: #ffffff;
+}
+.Ukurans ul a{
+	text-decoration: none;
+}
+
+
+#Top-side{
+	width: 100%;
+	height: 80px;
+	position: fixed;
+	z-index: 1002;
+	background: url(../img/colorBlue.png);
+	background-repeat: repeat-x;
+	box-shadow: 3px 2px 2px #000;
+}
+
+#MovieCloudLogo{
+	border-radius: 5px;
+	
+	margin-left: 50px;
+	width: 170px !important;
+	height: 85px !important;
+	padding: 15px;
+}
+
+#LoginFrom{
+	padding-top: 10px;
+	width: 20px;
+	display: inline;
+	margin-top: 30px;
+}
+#LoginFrom li{
+	display: inline;
+	font-size:12px;
+}
+#settingimg{
+	margin-top: 10px;
+	z-index: 889;
+	position:absolute; 
+	right:65px; 
+	top:25px; 
+	padding:0px;
+}
+#right-nav{
+	width: 20%;
+	height: 100%;
+	margin-right:20px;
+}
+
+#LogoType{
+	display: inline;
+	height: 100%;
+	float: left;
+}
+#nav-inside li{
+		overflow: hidden;
+		padding: 1px;
+		top:10px;
+		display: inline;
+		padding: 0px 20px;
+		font-family: secondFont;
+}
+
+#nav-inside a{
+	text-decoration: none;
+	color: #ffffff;
+}
+#nav-inside li:hover{
+			border-bottom: 2px solid grey;
+}
+#search{
+	margin-left: 5px;
+}
+#nav{
+	height: 100%;
+	position: relative;
+	width: 80%;
+	float: left;
+}
+#navi-search{
+	height: 50px;
+	width: auto;
+	margin: 30px auto;
+	font-size: 25px;
+	text-align: center;
+}
+.navigasiMenu{
+	vertical-align: middle;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	margin: 0px 5px 0px;
+}
+#body-side{
+	width: 90%;
+	margin: auto;
+}
+img.slide{
+	display: block;
+	margin: auto;
+	padding-top:40px;
+	padding-bottom: 10px;
+}
+
+
+#ContentSecond{
+	width: inherit;
+	height: auto;
+	background: #ffffff;
+	position: relative;
+}
+#ContentSecond>img{
+	width: 100%;
+	height: 500px;
+	opacity: 0.9;
+	background-color: black;
+
+}
+#Quote{
+	position: absolute;
+	height: 100px;
+	z-index: 1001;
+	left: 28%;
+}
+#Quote h3{
+	font-size: 40px;
+	color: #FFFFFF;
+	font-family: arial;
+	text-align: justify;
+}
+
+#SocialRoll{
+		left: 30%;
+}
+#FindFriend{
+	left: 40%;
+}
+#Group{
+	left: 50%;
+}
+.socialSize{
+	width: 80px;
+	height: 80px;
+	background: grey;
+	border-radius: 50%;
+	display: inline-block;
+	margin-left: 30px;
+	margin-right: 10px;
+	opacity: 0.9;
+}
+.abs{
+	bottom: 20px;
+}
+.socialSize>img{
+	width: 30px;
+	height: 30px;
+	padding: 25px;
+
+}
+.socialSize:hover{
+	opacity: 1;
+	background-color: #ffffff;
+}
+#wrapperSocial{
+	position: absolute;
+	margin: auto;
+	width: 500px;
+	height: auto;
+	left: 35%;
+	bottom: 30px;
+}
+#Side3{
+	width: 100%;
+	height: 700px;
+	background-color: #E1E3E4;
+	position: relative;
+}
+
+#third{
+	width: 100%;
+	height: 700px;
+	background-color: #ddfff0;
+}
+.UserManagement{
+	cursor: default;
+}
+.UserManagement:hover{
+	border-bottom: none !important;
+}
+.haslogin{
+	display: none !important;
+}
+#Profile{
+	display: inline;
+	position: absolute;
+	top:10px;
+	margin-left: 30px;
+	margin-right: 10px;
+	width: 80px;
+	height: 70px;
+	border-radius: 50px;
+	
+}
+#UserFoto:hover{
+	border-bottom: none !important;
+}

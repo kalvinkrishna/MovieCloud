@@ -1,0 +1,204 @@
+body{
+	background-image:url(../img/1907591.jpg);
+	margin: 0px;
+	background-color: black;
+	height: auto;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#nav-inside #Explore{
+	border-bottom: 2px solid #2AFAEC;
+	color: #2AFAEC;
+}
+#body-content-film{
+	width: 100%;
+	height: 100%;
+	padding-top: 60px;
+	margin: 0px auto;
+	position: relative;
+}
+#movie-category{
+	width: 15%;
+	height:auto;
+	float: left;
+	margin: 50px;
+	color:#fffe81;
+	position: fixed;
+}
+#Movie-containers{
+	display: none;
+}
+#WWWfilm{
+	width: 83.1%;
+	float: right;
+	margin: 30px;
+	position: relative;
+	margin-bottom: 30px;
+}
+#WWWfilm h4{
+	color: #ffffff;
+	font-size: 30px;
+	text-align: center;
+}
+#wrapper-film-content{
+	width: 80%;
+
+	margin: auto;
+	margin-top:20px;
+	position: relative;
+	cursor:pointer;
+}
+.film{
+	display: block;
+	border: 1px solid #000000;
+	width: 100%;
+	height: 100px;
+	opacity: 0.6;
+}
+.film:hover{
+	background: #f9fcff;
+	opacity: 0.8;
+}
+.film h2{
+	margin-top:35px;
+	opacity:1;
+	color:#000000;
+}
+
+.content-film{
+	width: 90%;
+	height: 80%;
+	margin: auto;
+	margin-top: 10px;
+}
+.content-film img{
+	display: inline;
+	margin-left: 18px;
+	padding-left: 30px;
+	margin-top:5px;
+	
+}
+#navigasi-movie{
+	width: 80%;
+	height: 70%;
+	margin: auto;
+	cursor: default;
+}
+#navigasi-movie>div{
+	margin-top: 30px;
+}
+
+#navigasi-movie ul li{
+	text-decoration: none;
+	display: block;
+	list-style: none;
+	font-size: 30px;
+	border-right: 2px solid #ffffff;
+	color: #4af9e2;
+}
+#navigasi-movie ul li:hover{
+	color: #ffffff;
+}
+#navigasi-movie ul span{
+	color: #fef125;
+	font-size: 20px;
+	border-bottom: 1px solid #fef125;
+}
+#navigasi-movie h1{
+	margin-top: 5px;
+	font-size: 25px;
+}
+.Frame{
+	z-index: 999;
+	position: absolute;
+	top:100px;
+	left: 28%;
+	right: 35%;
+	bottom: 30px;
+	margin: 100px auto 50px;
+}
+.backGround{
+	position: absolute;
+	width: 100%;
+	height: 1400px;
+	background-color:#000;
+	opacity: 0.9;
+	z-index: 999;
+	top:0px;
+	margin: 0px;
+	padding-bottom: 30%;
+}
+.Frame iframe{
+	margin: auto;
+	vertical-align: middle;
+}
+.Frame #TrailerJudul{
+	color: #ffffff;
+	text-align: center;
+}
+#VideoFrame{
+	width: 600px;
+	height: 350px;
+	display: none;
+}
+h2{
+	text-align: center;
+}
+td{
+	width: 20px;
+}
+.ReviewFrame{
+	width: 900px;
+	height: 500px;
+	border-radius: 20px;
+	color: white;
+}
+.ReviewFrame #Film{
+	width: 300px;
+	height: 300px;
+	float: left;
+	padding: 20px;
+}
+.ReviewFrame #Player{
+	width: 60px;
+	height: 60px;
+	clear: both;
+}
+#detailReview {
+	width: 55%;
+	float: right;
+	margin-right: 5px;
+}
+#detailReview table{
+	width: 100%;
+    word-wrap: break-word;
+    table-layout: fixed;
+    overflow: scroll;
+}
+#detailReview table tr td{
+	margin-top: 100px;
+	text-align: justify;
+	font-family: arial;
+}
+#Player{
+
+	border-radius: 30px;
+	position: absolute;
+	top: 293px;
+	left: 120px;
+}
+
+#Player:hover{
+	background-color: red;
+}
+.imgSize{
+	width: 200px;
+	height: 200px;
+}
+#Sinopsis{
+	text-align: justify;
+	word-spacing: 0px;
+}
+.ActiveMenu{
+	background-color: tomato;
+}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<USERACCOUNT>
+		<USER category="ADMIN">
+						<NAMA>KRISHNA</NAMA>
+						<USIA>18 TAHUN</USIA>
+						<JENISKELAMIN>Laki-Laki</JENISKELAMIN>
+						<ALAMAT>Yogyakarta</ALAMAT>
+						<EMAIL>krishna.kalvin@gmail.com</EMAIL>
+						<ID>Krishna18</ID>
+						<ABOUT></ABOUT>
+		</USER>
+
+		<USER category="ADMIN">
+						<NAMA>Lukas</NAMA>
+						<USIA>19 TAHUN</USIA>
+						<JENISKELAMIN>Laki-Laki</JENISKELAMIN>
+						<ALAMAT>Yogyakarta</ALAMAT>
+						<EMAIL>lukasLaksmana@ukdw.ac.id</EMAIL>
+						<USERNAME>LukasLuak</USERNAME>
+		</USER>
+
+		<USER category="ADMIN">
+						<NAMA>GlenWard Alowmau</NAMA>
+						<USIA>19 TAHUN</USIA>
+						<JENISKELAMIN>LAKI-Laki</JENISKELAMIN>
+						<ALAMAT>Yogyakarta</ALAMAT>
+						<EMAIL>GLEN@ukdw.ac.id</EMAIL>
+						<USERNAME>GlenPrasetya</USERNAME>
+		</USER>
+
+		<USER category="ADMIN">
+						<NAMA>Joshepus</NAMA>
+						<USIA>20 TAHUN</USIA>
+						<JENISKELAMIN>LAKI-LAKI</JENISKELAMIN>
+						<ALAMAT>YOGYAKARTA</ALAMAT>
+						<EMAIL>Joshep@ukdw.ac.id</EMAIL>
+						<USERNAME>JoshepCloud</USERNAME>
+		</USER>
+
+
+		<USER category="ADMIN">
+						<NAMA>Nelson</NAMA>
+						<USIA>21 TAHUN</USIA>
+						<JENISKELAMIN>LAKI-LAKI</JENISKELAMIN>
+						<ALAMAT>YOGYAKARTA</ALAMAT>
+						<EMAIL>Nelson@ukdw.ac.id</EMAIL>
+						<USERNAME>Nelson</USERNAME>
+		</USER>
+
+		<USER category="UMUM">
+						<NAMA></NAMA>
+						<USIA></USIA>
+						<JENISKELAMIN></JENISKELAMIN>
+						<ALAMAT></ALAMAT>
+						<EMAIL></EMAIL>
+		</USER>
+		
+		<USER category="UMUM">
+						<NAMA></NAMA>
+						<USIA></USIA>
+						<JENISKELAMIN></JENISKELAMIN>
+						<ALAMAT></ALAMAT>
+						<EMAIL></EMAIL>
+		</USER>
+
+
+
+
+</USERACCOUNT>

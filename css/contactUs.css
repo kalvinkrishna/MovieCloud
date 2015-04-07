@@ -1,0 +1,141 @@
+a{
+	text-decoration: none;
+}
+#body-side-us{
+	width: 100%;
+	height: 500px;
+	padding-top: 50px;
+	margin: auto;
+	max-height: 300px;
+}
+#slide-us{
+	width:1024px;
+	height: 100%;
+	margin: auto;
+	padding-left: 40px;
+	padding-right: 30px;
+	max-width: 650px;
+	color: #ffffff;
+}
+#slide-usc{
+	width:1024px;
+	height: 100%;
+	margin: auto;
+	padding-left: 40px;
+	padding-right: 30px;
+	max-width: 650px;
+	color: #ffffff;
+}
+#body-side-in{
+	margin: auto;
+	width: 95%;
+	height: 90%;
+	position: relative;
+	color: #000000;
+}
+.GroupDes{
+	width: 100%;
+	height: 28%;
+	background:#91defe;
+	margin-top: 10px;
+
+}
+.Menu-Us{
+	margin: auto;
+	width: 100%;
+	margin: auto;
+	color: #ffffff;
+	padding-top: 8px;
+}
+
+#MovieCloudName{
+	margin-top: 15px;
+	padding-left:15px;
+	float:right;
+
+}
+#left-nav{
+	float: left;
+	width: 70%;
+	padding-left: 40px;
+}
+#left-nav-inside{
+	display: inline;
+	overflow: hidden;
+	padding: 0px;
+}
+#LoginFrom{
+	text-align: center;
+	display: inline;
+	position: absolute;
+	margin-top: 10px;
+}
+#LoginFrom li{
+	display: inline;
+	font-size:10px;
+}
+#settingimg{
+	border-left: 1px solid #000000;
+	border-right: 1px solid #000000;
+	margin-top: 10px;
+}
+
+#Team{
+	padding-top: 30px;
+	color:#fba91a;
+}
+#Team-Desainer:hover{
+	background: #f8e9a0;
+}
+#Team-Programmer:hover{
+	background: #98ff45;	
+}
+#Tester:hover{
+	background: #48e483;
+}
+.fotoGrup{
+	border-radius: 50%;
+	border:1px solid #000000;
+	margin-left: 42%;
+	margin-right: 42%;
+	margin-top: 5px;
+	display: inline;
+}
+#p{
+	padding-top: 20px;
+	color: #1fffe2;
+}
+.FotoGrup{
+	width: 100%;
+	display:block;
+	border-bottom: 1px solid #000000;
+	margin-top: 30px;
+	float: left;
+}
+.BioData{
+	color: #000000;
+	float: right;
+}
+
+.BioData p{
+	font-size: 30px;
+	text-align: justify;
+}
+.BioData h5{
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+.Skill{
+	margin-top: 5px;
+}
+.Skill a{
+	text-decoration: none;
+	color: #000000;
+}
+#form-list tbody{
+	border: 2px solid #fff;
+
+}
+#FotoLib>h6>a{
+	font-size: 15px;
+}

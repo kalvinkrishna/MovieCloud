@@ -1,0 +1,18 @@
+#Event{
+	border-bottom: 2px solid #2AFAEC;
+	color: #2AFAEC;
+}
+#backGroundEvent{
+	background-color: #000;
+	opacity: 0.9;
+	width: 100%;
+	height: 100%;
+}
+#RealisticTyping{
+	width: 80%;
+	height: 80%;
+	border: 1px solid #fff;
+	position: relative;
+	margin: 10px auto;
+	padding-top: 30px;
+}

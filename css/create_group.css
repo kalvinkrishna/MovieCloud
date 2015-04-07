@@ -1,0 +1,80 @@
+
+.Hilang{
+	display: none;
+}
+#form_create{
+
+	background-color: white;
+	border-radius: 10px;
+	width: 600px;
+	height: 400px;
+	margin: auto; 
+	position: relative;
+	display: none;
+	padding-top: 200px;
+}
+
+#group_pict{
+	background-color: rgb(235,235,224);
+	width: 150px;
+	height: 150px;
+	left: 14px;
+	position: absolute;	
+}
+
+.group_id{
+	position: relative;
+	left: 200px;
+	font-family: arial;
+}
+
+#b_create{
+	position: absolute;
+	top: 250px;
+	left: 440px;
+}
+
+#form_dalam{
+	background-color: white;
+	width: 560px;
+	height: 300px;
+	margin-left: 20px;
+	margin-top: 20px;
+	position: absolute;	
+}
+
+#browse{
+	font-family: arial;
+	position: absolute;
+
+}
+
+#b_browse_pic{
+	border-radius: 20px;
+	font-family: arial;
+	position: relative;
+
+}
+
+#browse{
+	position: absolute;
+	top: 160px;
+
+}
+
+.group_in{
+	position: absolute;
+	left: 100px;
+}
+
+.group_id textarea{
+	width: 345px;
+	height: 69px;
+	font-size: 12px;
+	margin-bottom: 5px;
+	resize:none;
+}
+
+.group_id input{
+	width: 345px;
+}	

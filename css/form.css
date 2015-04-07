@@ -1,0 +1,85 @@
+#Container-CGroup{
+	z-index: 99;
+	width: 100%;
+	height: 100%;
+	display: none;
+}
+form textarea{
+	resize:vertical;
+}
+#Cbackground{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: #148ef6;
+	opacity: 0.3;
+}
+#CGForm{
+	position: absolute;
+	width: 30%;
+	height: 70%;
+	border-radius: 10px;
+	border: 2px solid #61bd68;
+	margin: 5% auto;
+	top:40px;
+	right: 30%;
+	left: 30%;
+	background-color: #fff;
+}
+#CGForm span{
+	width: 30%;
+	height: 6%;
+	z-index: 99;
+	position: absolute;
+	margin:0px;
+	top:0px;
+	left: 15px;
+	right: 3px;
+	bottom: 0px;
+	font-size: 16px;
+	line-height: 20px;
+	text-transform:uppercase;
+
+}
+#CGframe{
+	width: 95%;
+	height: 90%;
+	border: 2px solid #d6d7d9;
+	margin: 20px auto;
+	position: relative;
+	border-radius: 10px;
+	font-size: 14px;
+	font-family: monospace;
+	background-color: #99fce6;
+}
+.imgGroup{
+	width: 100px;
+	height: 100px;
+	float: left;
+	padding: 25px;
+}
+#CGformTop{
+	float: right;
+	width: 40%;
+	overflow: none;
+	margin: 35px;
+	padding: 5px;
+}
+#CGformTop form{
+	position: relative;
+}
+#CGformBottom{
+	clear: both;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#CGformBottom form{
+	padding-top: 30px;
+	padding-left: 30px;
+	width: 40%;
+}
+#CGformBottom form button{
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+}

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MovieCloud>
+	<Movie category="Action">
+		<MovieReview>
+				<TITLE>Sniper</TITLE>
+				<RELEASE>2010</RELEASE>
+				<GENRE>Action</GENRE>
+				<DESC>TEST123TEST</DESC>
+				<DIRECTOR>KalvinKrishna</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/Ke1Y3P9D0Bc</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>The Expendables 2</TITLE>
+				<RELEASE>2012</RELEASE>
+				<GENRE>Action,Adventure,Thriller</GENRE>
+				<DESC>Mr. Church reunites the Expendables for what should be an easy paycheck, but when one of their men is murdered on the job, their quest for revenge puts them deep in enemy territory and up against an unexpected threat.</DESC>
+				<DIRECTOR>Simon West</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/s7EdQ4FqbhY http://www.youtube.com/watch?v=TgEqVYcryWc</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>The GodFather Part II</TITLE>
+				<RELEASE>1974</RELEASE>
+				<GENRE>Drama,Crime</GENRE>
+				<DESC>The continuing saga of the Corleone crime family tells the story of a young Vito Corleone growing up in Sicily and in 1910s New York; and follows Michael Corleone in the 1950s as he attempts to expand the family business into Las Vegas, Hollywood and Cuba</DESC>
+				<DIRECTOR>Francis Ford Coppola</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/8PyZCU2vpi8</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>Transformers: Age of Extinction</TITLE>
+				<RELEASE>erojfkm</RELEASE>
+				<GENRE>Science Fiction,Action,Adventure</GENRE>
+				<DESC>As humanity picks up the pieces, following the conclusion of "Transformers: Dark of the Moon," Autobots and Decepticons have all but vanished from the face of the planet. However, a group of powerful, ingenious businessman and scientists attempt to learn from past Transformer incursions and push the boundaries of technology beyond what they can control - all while an ancient, powerful Transformer menace sets Earth in his cross-hairs.</DESC>
+				<DIRECTOR>sfkjsdalfjsdklf</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/EOmpqg1YoWU</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>IronMAN 3</TITLE>
+				<RELEASE>2013</RELEASE>
+				<GENRE>Action, Adventure ,Science-Fiction</GENRE>
+				<DESC>The brash-but-brilliant industrialist Tony Stark faces an enemy whose reach knows no bounds. When Stark finds his personal world destroyed at his enemy’s hands, he embarks on a harrowing quest to find those responsible. This journey, at every turn, will test his mettle. With his back against the wall, Stark is left to survive by his own devices, relying on his ingenuity and instincts to protect those closest to him. As he fights his way back, Stark discovers the answer to the question that has secretly haunted him: does the man make the suit or does the suit make the man?</DESC>
+				<DIRECTOR> 	Shane Black</DIRECTOR>
+				<TRAILER>http://www.youtube.com/embed/YLorLVa95Xo</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>The Legend</TITLE>
+				<RELEASE>1993</RELEASE>
+				<GENRE>Adventure,Action,Comedy</GENRE>
+				<DESC>This Hong Kong martial-arts extravaganza tells of evil emperors and true love. The secret Red Lotus Flower Society is committed to the overthrow of the evil Manchu Emperor and his minions. One of his Governors is sent on a mission to retrieve a list of members of that secret society. Meanwhile, Canton kung fu practitioner Fong Sai-Yuk falls in love with the beautiful daughter of a rich merchant.</DESC>
+				<DIRECTOR>Corey Yuen Kwai</DIRECTOR>
+				<TRAILER>null</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>Eagle Eye</TITLE>
+				<RELEASE>2008</RELEASE>
+				<GENRE>Thriller Action</GENRE>
+				<DESC>Jerry Shaw and Rachel Holloman are two strangers thrown together by a mysterious phone call from a woman they have never met. Threatening their lives and family, she pushes Jerry and Rachel into a series of increasingly dangerous situations – using the technology of everyday life to track and control their every move. As the situation escalates, these two ordinary people become the country's most wanted fugitives, who must work together to discover what is really happening – and more importantly, why.</DESC>
+				<DIRECTOR> 	D.J. Caruso</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/_wkqo_Rd3_Q</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>Sin City: A Dame to Kill For</TITLE>
+				<RELEASE>2014</RELEASE>
+				<GENRE>Crime,Action,Drama,Thriller</GENRE>
+				<DESC>Some of Sin City's most hard-boiled citizens cross paths with a few of its more reviled inhabitants.</DESC>
+				<DIRECTOR>Frank Miller, Robert Rodriguez</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/Bmhy9VYVY8c</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>X-Men: Days of Future Past</TITLE>
+				<RELEASE>2014</RELEASE>
+				<GENRE>Action Adventure Fantasy Science Fiction</GENRE>
+				<DESC>The ultimate X-Men ensemble fights a war for the survival of the species across two time periods in X-MEN: DAYS OF FUTURE PAST. The beloved characters from the original “X-Men” film trilogy join forces with their younger selves from “X-Men: First Class,” in an epic battle that must change the past – to save our future.</DESC>
+				<DIRECTOR> 	Bryan Singer</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/gsjtg7m1MMM</TRAILER>
+		</MovieReview>
+		
+
+	</Movie>
+
+	
+
+	<!--Comedy-->
+
+	<Movie category="Romance">
+			<MovieReview>
+				<TITLE>Twilight
+</TITLE>
+				<RELEASE>2008</RELEASE>
+				<GENRE>
+    Adventure
+    Fantasy
+    Drama
+    Romance</GENRE>
+				<DESC>When Bella Swan moves to a small town in the Pacific Northwest to live with her father, she starts school and meets the reclusive Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't help but fall in love with him, a fatal move that endangers her own life when a coven of bloodsuckers try to challenge the Cullen clan.</DESC>
+				<DIRECTOR> 	Catherine Hardwicke</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/edLB6YWZ-R4</TRAILER>
+			</MovieReview>
+			<MovieReview>
+				<TITLE>
+The Hunger Games: Catching Fire</TITLE>
+				<RELEASE>2013</RELEASE>
+				<GENRE>Science Fiction,Thriller,Action,Adventure</GENRE>
+				<DESC>Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a "Victor's Tour" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever</DESC>
+				<DIRECTOR>Francis Lawrence</DIRECTOR>
+				<TRAILER>http://www.youtube.com/embed/MkvUNfySGQU</TRAILER>
+			</MovieReview>
+			<MovieReview>
+				<TITLE>Parker</TITLE>
+				<RELEASE>2013</RELEASE>
+				<GENRE>Action,Crime</GENRE>
+				<DESC>A thief with a unique code of professional ethics is double-crossed by his crew and left for dead. Assuming a new disguise and forming an unlikely alliance with a woman on the inside, he looks to hijack the score of the crew's latest heist.</DESC>
+				<DIRECTOR> 	Taylor Hackford</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/VYXhgshqyGg</TRAILER>
+			</MovieReview>
+	
+	</Movie>
+
+	
+
+	<!--Fiksi-->
+
+	<Movie category="Fiksi">
+		<MovieReview>
+				<TITLE>Elysium</TITLE>
+				<RELEASE>2013</RELEASE>
+				<GENRE>
+    Science Fiction
+    Action
+    Drama
+    Thriller</GENRE>
+				<DESC>In the year 2159, two classes of people exist: the very wealthy who live on a pristine man-made space station called Elysium, and the rest, who live on an overpopulated, ruined Earth. Secretary Rhodes (Jodie Foster), a hard line government ofﬁcial, will stop at nothing to enforce anti-immigration laws and preserve the luxurious lifestyle of the citizens of Elysium. That doesn’t stop the people of Earth from trying to get in, by any means they can. When unlucky Max (Matt Damon) is backed into a corner, he agrees to take on a daunting mission that, if successful, will not only save his life, but could bring equality to these polarized worlds</DESC>
+				<DIRECTOR>Neill Blomkamp</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/oIBtePb-dGY</TRAILER>
+			</MovieReview>
+
+
+			<MovieReview>
+				<TITLE>
+Prometheus</TITLE>
+				<RELEASE>2012</RELEASE>
+				<GENRE>
+    Science Fiction,
+    Adventure,
+    Mystery</GENRE>
+				<DESC>A team of explorers discover a clue to the origins of mankind on Earth, leading them on a journey to the darkest corners of the universe. There, they must fight a terrifying battle to save the future of the human race.</DESC>
+				<DIRECTOR>Ridley Scott</DIRECTOR>
+				<TRAILER>http://www.youtube.com/embed/HHcHYisZFLU</TRAILER>
+			</MovieReview>
+
+
+			<MovieReview>
+
+				<TITLE>Source Code</TITLE>
+				<RELEASE>2011</RELEASE>
+				<GENRE>Thriller,
+    Science Fiction,
+    Mystery</GENRE>
+				<DESC>Decorated soldier Captain Colter Stevens wakes up in the body of an unknown man, discovering he's involved in a mission to find the bomber of a Chicago commuter train. He learns he's part of a top-secret experimental program that enables him to experience the final 8 minutes of another person's life. Colter re-lives the train incident over and over again, gathering more clues each time. But can he discover who is responsible for the attack before the next one happens?</DESC>
+				<DIRECTOR>Duncan Jones</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/NkTrG-gpIzE</TRAILER>
+			</MovieReview>
+
+			
+	</Movie>
+
+	
+
+	<!--Romance-->
+	<Movie category="Commedy">
+		<MovieReview>
+				<TITLE>The Original Kings of Comedy</TITLE>
+				<RELEASE>2010</RELEASE>
+				<GENRE>Comedy</GENRE>
+				<DESC>The Original Kings of Comedy achieves the seemingly impossible task of capturing the rollicking and sly comedy routines of stand-up and sitcom vets Steve Harvey, D.L. Hughley, Cedric the Entertainer, and Bernie Mac and the magic of experiencing a live concert show. Director Spike Lee and his crew plant a multitude of cameras in a packed stadium and onstage (as well as backstage, as they follow the comedians) to catch the vivid immediacy of the show, which is as much about the audience as it is about the jokes.</DESC>
+				<DIRECTOR>Spike Lee</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/none</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>Struck by Lightning</TITLE>
+				<RELEASE>2012</RELEASE>
+				<GENRE>
+    Comedy
+    Drama</GENRE>
+				<DESC>After being struck and killed by lightning, a young man recounts the way he blackmailed his fellow classmates into contributing to his literary magazine</DESC>
+				<DIRECTOR> 	Brian Dannelly</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/JAakou4Kdhw</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>Disaster has a passport</TITLE>
+				<RELEASE>2010</RELEASE>
+				<GENRE>Comedy</GENRE>
+				<DESC>-</DESC>
+				<DIRECTOR>-</DIRECTOR>
+				<TRAILER>//www.youtube.com/embed/JAakou4Kdha</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>lokdsjf</TITLE>
+				<RELEASE>erojfkm</RELEASE>
+				<GENRE>kjmknslknfsfisdf;</GENRE>
+				<DESC>ksfsdlakfsdfklj</DESC>
+				<DIRECTOR>sfkjsdalfjsdklf</DIRECTOR>
+				<TRAILER>ksfsadlkfjsdklfjsdf</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>kafljsfkljsdfkljs</TITLE>
+				<RELEASE>sdfsdasdasdjlfskldasdasfj</RELEASE>
+				<GENRE>sfasdlfjsdkfjs</GENRE>
+				<DESC>assddasdasd</DESC>
+				<DIRECTOR>slfjasdlfkjsdkflj</DIRECTOR>
+				<TRAILER>sdfkj;sdlkfjsdklfj</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>ksdjf;ldsfjsdklfjs</TITLE>
+				<RELEASE>ksdjf;lskdjfkdsjf</RELEASE>
+				<GENRE>lsdjf;sdlkfjsdklfj</GENRE>
+				<DESC>sdf;lkjdsfkljsdf</DESC>
+				<DIRECTOR>skdfj;lsdfjsd</DIRECTOR>
+				<TRAILER>sdlf;ldskfj;sdklfjs</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>sldfdsjfs;lkdjfs</TITLE>
+				<RELEASE>kajd;laskjdkslajd</RELEASE>
+				<GENRE>asjd;klasjdaksjd</GENRE>
+				<DESC>asdj;aslkdjsakldj</DESC>
+				<DIRECTOR>asdj;salkjdaskldj</DIRECTOR>
+				<TRAILER>ad;laksjdaksldjklja</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>.</TITLE>
+				<RELEASE>.</RELEASE>
+				<GENRE>.</GENRE>
+				<DESC>.</DESC>
+				<DIRECTOR>.</DIRECTOR>
+				<TRAILER>.</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>akdmald;askldajsdj;jkaj;dlkajd</TITLE>
+				<RELEASE>ad;lnvknakl;dalkjdalkjsdkalsj</RELEASE>
+				<GENRE>kad;aljdkasdjasd;lasdkj;alskdjalskdj</GENRE>
+				<DESC>akdl;ajdlkasjdasjda;ldjaskldja</DESC>
+				<DIRECTOR>ad;asljdaslkdjaskjkdaja;ldja</DIRECTOR>
+				<TRAILER>askdjal;sdkjaskdjakldjaskldjas</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>asdaskldjasld;kajsdlkajsdlkasjd</TITLE>
+				<RELEASE>asd;klasjdklsajdaskjd;laskdjaskld</RELEASE>
+				<GENRE>asdk;asldjaskldjaskldjaslkdjaskdja</GENRE>
+				<DESC>adj;alskdjaskldjask;ldjaskldj</DESC>
+				<DIRECTOR>aksd;alsdjaklsdjaslkjdkalsjd</DIRECTOR>
+				<TRAILER>alsdj;asldkjasdkljaskdlj</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>akdj;asldkjas;kldjas;kdljas;kldjaskldjas</TITLE>
+				<RELEASE>mvjeosldska</RELEASE>
+				<GENRE>orncmdklas;dkj</GENRE>
+				<DESC>,ckkdjaskldjieiieie</DESC>
+				<DIRECTOR>mmvmkdkkdlakak</DIRECTOR>
+				<TRAILER>fmfmfkkdlldjaka</TRAILER>
+		</MovieReview>
+		<MovieReview>
+				<TITLE>mmjakksdakldaslasdk</TITLE>
+				<RELEASE>,a,asddnnsdmasmdma</RELEASE>
+				<GENRE>madasdkdadnaslkdna</GENRE>
+				<DESC>asmdmasdmadsmmsad</DESC>
+				<DIRECTOR>asdmasndklasdajskd</DIRECTOR>
+				<TRAILER>adl;asd;kjasdkljadsklj</TRAILER>
+		</MovieReview>
+	</Movie>
+
+
+
+</MovieCloud>

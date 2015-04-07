@@ -1,0 +1,19 @@
+body{
+	margin: 0px;
+	background-color: #297fff;
+}
+#bWrap{
+	position: relative;
+	width: 80%;
+	height: 100%;
+	margin: auto;
+}
+#bWrap textarea{
+	position: absolute;
+	top: 300px;
+	margin:0px 30%;
+	width: 500px;
+	height: 100px;
+	resize:none;
+	border-radius: 10px;
+}

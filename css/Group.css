@@ -1,0 +1,369 @@
+#nav-inside .Community{
+	border-bottom: 2px solid #2AFAEC;
+	color: #2AFAEC !important;
+}
+#ListGroupping{
+	width: 960px;
+	margin: auto;
+	padding-top: 100px;
+	position: relative;
+}
+#OwnGroup{
+	position: absolute;
+	left: 0px;
+	width: 180px;
+	height: 300px;
+}
+#ListGrouppingWrappingIn{
+	margin: 0px auto 10px;
+	width: 60%;
+	background-color: #ffffff;
+	border: 1px solid #000000;
+}
+#ListGrouppingWrappingIn form{
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 10px;
+}
+.ListGroups>.imgListGroups{
+	float: left;
+	margin-left: 40%;
+	margin-right: 43%;
+	opacity: 0.7;
+	width: 100px;
+	height: 100px;
+}
+.ListGroups>.imgListGroups:hover{
+	border-color:#ffef3e;
+	opacity: 1;
+}
+.ContainerGroupName{
+	clear: left;
+	text-align: center;
+}
+.NamaGroup{
+	font-family: ALADDIN,arial;
+	font-size: 20px;
+}
+.DesDis{
+	padding-left: 80px;
+	height: inherit;
+	width: inherit;
+}
+#AnggotaMember{
+	padding-top: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+	overflow: hidden;
+}
+/*Batas Style*/
+
+#body-Create{
+	width: 80%;
+	height: auto;
+	margin:auto;
+	padding-top: 100px;
+	position: relative;
+	margin-bottom: 10px;
+	
+}
+#left-position{
+	height: 400px;
+	width: 200px;
+	background-color: #fff;
+	float: left;
+}
+#left-position>img{
+	margin: 5px 20px;
+}
+#NameGroup{
+	height: 80px;
+	border-radius: 5px;
+	background-color: #fff;
+	border: 1px solid #000;
+	box-shadow: 1px 1px 2px 0px #000;
+	margin: 10px 0px 5px;
+}
+#MemberLounge{
+	height: 80px;
+	border-radius: 5px;
+	background-color: #fff;
+	border: 1px solid #000;
+	box-shadow: 1px 1px 2px 0px #000;
+	margin: 10px 0px 5px;
+
+}
+#MemberLounge>span{
+	margin: 0px auto 10px;
+}
+
+#NameGroup>h2{
+	font-size: 14px;
+	margin-left: 5px;
+}
+#NameGroup>img{
+	margin: 5px;
+	width: 30px;
+	height: 30px;
+}
+
+#listDiscus{
+	height: auto;
+	border: 1px solid #000;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	display: none;
+	margin-top: 5px;
+}
+#Buttonbottom{
+	position: relative;
+	margin-bottom: 0px;
+	width: 100%;
+	height: 30px;
+
+}
+.Enter{
+	border-bottom: 1px solid #000;
+	cursor: pointer;
+}
+.Enter:hover{
+	color: #D54DF0;
+}
+#container-group{
+	float: left;
+	width: 50%;
+	height: auto;
+	border: 1px solid #000;
+	margin-left: 30px;
+	display: none;
+}
+#container-group h3{
+	text-align: center;
+}
+.containerGroup{
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+#cekin{
+	display: none;
+}
+.containerGroup form{
+	width: 100%;
+	height: 50px;
+	margin: 10px 0px;
+}
+.containerGroup>form>img{
+	margin-left: 20px;
+}
+#CommentBox{
+	width: 100%;
+	height: 100px;
+	margin: 0px auto 10px;
+}
+
+#CommentBox textarea{
+	resize:none;
+	border-bottom: 1px solid #000;
+	margin-top: 10px;
+	margin-left:15px;
+	border-radius: 5px;
+}
+
+#boxComentar{
+	width: 95%;
+	height: auto;
+	position: relative;
+	margin: auto;
+}
+.Discuss-Film{
+	height: 100px;
+	width: auto;
+	margin:0px auto 0px;
+	border-bottom: 1px solid #000;
+	background-color: #fff;
+	padding-top: 20px;
+}
+.Disscuss{
+	cursor: default;
+}
+.Disscuss:hover{
+	background-color: tomato;
+}
+#ImgDisscuss{
+	width:60px;
+	height: 60px;
+	margin: 0px;
+	margin-bottom: 5px;
+}
+#CommentBox>button{
+	margin-left: 20px;
+}
+.Discuss-Film>img{
+	float: left;
+	margin-left: 5px;
+	margin-top: 15px;
+	 width:60px;
+	 height:60px;
+}
+#CommentBoxList{
+	height: auto;
+	width: 100%;
+}
+#CommentBoxList>ul{
+	padding: 5px;
+}
+
+#CommentBoxList>ul>li{
+	list-style: none;
+	margin-top: 5px;
+	padding-top: 5px;
+	height: auto;
+}
+.ListComment{
+	border-bottom: 1px solid #000;
+	overflow:hidden;
+	width: 90%;
+	margin: auto;
+	box-shadow: 1px 1px 1px 1px #000;
+}
+.ListComment>img{
+	float: left;
+	margin-bottom: 10px;
+	width: 100px;
+	height: 100px;
+}
+.commentarWord{
+	padding-left: 15px;
+}
+.Comment>h2{
+	margin-left: 15px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
+.Comment{
+		margin-top: 10px;
+		padding-left: 110px;
+
+}
+.Comment p{
+	text-align: justify;
+	font-weight: bold;
+}
+
+.DropdownList{
+	padding: 0px;
+	position: absolute;
+	top:20px;
+	z-index: 2000;
+}
+.DropdownList .dropdown{
+	color: black !important;
+	display: block !important;
+}
+.Pamor{
+	margin-left: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.Pamor>img{
+	margin-right: 5px;
+	margin-left: 5px;
+	width: 15px;
+	height: 15px;
+}
+#NavAdmin{
+
+}
+#NavAdmin>.NavigAd{
+	list-style: none;
+	padding: 0px;
+	margin: 10px auto 0px;
+}
+#NavAdmin>.NavigAd>a{
+	text-decoration: none;
+	color: #000;
+}
+#NavAdmin>.NavigAd>li{
+	display: inline;
+	border: 1px solid #000;
+	background-color: #fff;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	padding: 0px 5px 0px;
+	opacity: 0.5;
+}
+
+#NavAdmin>.NavigAd>li:hover{
+	cursor: pointer;
+	opacity: 1;
+	background-color: #11C0E6;
+}
+.MemberGroup{
+	width: 24px;
+	height: 24px;
+	overflow: hidden;
+}
+
+#SearchG-Button{
+	border: 2px solid #fff;
+	position: absolute;
+	right: 50px;
+	background-color: #ACFDFF;
+	color: #fff;
+	cursor: pointer;
+}
+.border-radius{
+	border-radius: 20px;
+	width:150px;
+	height: 50px;
+}
+#SearchG-Button>h6{
+	text-align: center;
+	vertical-align: middle;
+	margin: 0px;
+	padding: 15px;
+	font-size: 20px;
+}
+.CreateGroup{
+	right: 10px !important;
+}
+#SearchG-Button:hover{
+	border:3px solid #FCD523;
+}
+.active{
+	cursor: pointer !important;
+	opacity: 1 !important;
+	background-color: #11C0E6 !important;
+	color: #fff !important;
+}
+#GroupList{
+	position: absolute;
+	right: 55px;
+	margin-top:100px;
+	background-color: blue;
+	width:150px;
+	height: 50px;
+}
+#GroupList>h6{
+	font-size:20px;
+	margin: 0px;
+	margin-top: 5px;
+	padding: 10px 25px 0px;
+	color: #fff;
+}
+.activeGMenu{
+	color:#AC9899;
+}
+#CreateGroup{
+	width: 150px;
+	height: 50px;
+	background: tomato;
+	position: absolute;
+	right:30px;
+	top: 300px; 
+}
+.commentarWord{
+	margin-bottom: 0px;
+}

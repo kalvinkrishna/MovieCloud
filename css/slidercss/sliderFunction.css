@@ -1,0 +1,24 @@
+#slider1_container{
+	position: relative; 
+	top: 0px; 
+	left: 0px; 
+	width: 640px;
+    height: 390px;
+    margin: 30px auto;
+}
+.closeButton {
+ background-image: url(../../img/close.png);
+ }
+.closeButton:hover { background-position: -30px 0px; }
+
+
+.jssorb03 div, .jssorb03 div:hover, .jssorb03 .av
+{
+                background: url(../../img/b03.png) no-repeat;
+                overflow:hidden;
+                cursor: pointer;
+}
+.jssorb03 div { background-position: -5px -4px; }
+.jssorb03 div:hover, .jssorb03 .av:hover { background-position: -35px -4px; }
+.jssorb03 .av { background-position: -65px -4px; }
+.jssorb03 .dn, .jssorb03 .dn:hover { background-position: -95px -4px; }
